@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration, of His Imperiall Majestie, the most High and Mighty Potentate Alexea, Emperor of Russia, and great Duke of Muscovia, &amp;c wherein is conteined his detestation of the murther of Charles the First, King of Great Britain and Ireland; his propensitie to restore King Charles the Second; that hee hath forbidden all trade with England; and meanes propounded for the establishing of a generall-peace throughout Christendome.</title>
+            <author>Russia. Sovereign (1645-1676 : Alekseĭ Mikhaĭlovich)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76028</idno>
+            <idno type="STC">Wing A902A</idno>
+            <idno type="STC">Thomason E623_17</idno>
+            <idno type="STC">ESTC R206420</idno>
+            <idno type="EEBO-CITATION">99865583</idno>
+            <idno type="PROQUEST">99865583</idno>
+            <idno type="VID">117828</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76028)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117828)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 96:E623[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration, of His Imperiall Majestie, the most High and Mighty Potentate Alexea, Emperor of Russia, and great Duke of Muscovia, &amp;c wherein is conteined his detestation of the murther of Charles the First, King of Great Britain and Ireland; his propensitie to restore King Charles the Second; that hee hath forbidden all trade with England; and meanes propounded for the establishing of a generall-peace throughout Christendome.</title>
+                  <author>Russia. Sovereign (1645-1676 : Alekseĭ Mikhaĭlovich)</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeere 1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "feb. 16".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+               <term>Alekseĭ Mikhaĭlovich, --  Czar of Russia, 1629-1676.</term>
+               <term>Russia --  History --  Alekseĭ Mikhaĭlovich, 1645-1676 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117828:1" rendition="simple:additions"/>
+            <p>A DECLARATION, OF His Imperiall MAJESTIE, The moſt High and Mighty Potentate ALEXEA, Emperor of RUSSIA, and great-Duke of MUSCOVIA, &amp;c</p>
+            <p>Wherein is conteined his Deteſtation of the Murther of <hi>CHARLES</hi> the Firſt, <hi>King</hi> of <hi>Great-Britain</hi> and <hi>Ireland;</hi> his propenſitie to reſtore King <hi>CHARLES</hi> the Second; That hee hath for<g ref="char:EOLhyphen"/>bidden all Trade with <hi>England;</hi> and Meanes pro<g ref="char:EOLhyphen"/>pounded for the eſtabliſhing of a generall-Peace throughout <hi>Chriſtendome.</hi>
+            </p>
+            <p>Printed in the yeere 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117828:2"/>
+            <pb n="1" facs="tcp:117828:2"/>
+            <opener>
+               <signed>
+                  <hi>ALEXEA</hi> Imperator;</signed>
+            </opener>
+            <p>HAVING, with very much regret, taken into our High and Imperiall Conſideration, the ſad and deſperate Condi<g ref="char:EOLhyphen"/>tion, into which the State of Chriſtendome is at preſent almoſt inevitably plunged, as well by the Diviſions of Prin<g ref="char:EOLhyphen"/>ces, as by ſub-Diviſions and ſecret Diſcontents, which begin to breake forth between them and their Subjects; The Rebellion of <hi>England,</hi> as an univerſall Contagion being become epidemicall, hath poyſoned and infected moſt parts of Chriſtendom: And likewiſe that that common Sower of all infand wickedneſſe, moſt falſly called the <hi>Parliament of England,</hi> with whom no Law of God nor Man, Nature nor Nation eſcapeth breaking, doe at this preſent imploy their Agents, the Buſtua<g ref="char:EOLhyphen"/>ries of humane States, in all Kingdomes and Territories of <hi>Europe;</hi> whoſe reſtleſſe induſtry is to crack the bonds of Allegiance and fealty betweene Subjects and their Soveraignes, by perſwading the common People (whoſe eares are ever greedie of novelties) of the Tirannie of Monarchy, and inſinuating deluſive fancies of Liberty and Freedome, by which policy that ſpurious generation (more degenerated then ever <hi>Nebuchadonoſer</hi> was, not Men into Beaſts, but very Devills incarnate) hope to overwhelme the whole World with an inundation of Blood and Confuſion, to bury Monarchy in a common grave of confuſed Anarchy, and eſtabliſh their aepicene Government in a more fixed orb of certaine ſecurity: For prevention whereof, Wee have thought good to propound ſuch meanes as Wee judge convenient for the conſervation of a generall Peace in all Chriſtian Kingdomes, and reducing that Re<g ref="char:EOLhyphen"/>bellious Nation to that due obedience and fealty, which by undoubted Right and divine Ordination, they owe to their Soveraigne.</p>
+            <p>And now Wee know not whether it will more become Us to De<g ref="char:EOLhyphen"/>claime or Declare; ſo monſtrous is the nature of the Crime that gives
+<pb n="2" facs="tcp:117828:3"/>
+preſent imployment to Our Royall Penne, that Our juſt indignation hath put Us upon a ſtraine, more bitter then is ſuitable with the common Majeſty of Our Imperiall Stile. For whereas, about eight yeares ſince, ſome certaine Lords and Commons that were aſſembled by Royall edict in the Parliament of <hi>England,</hi> pretending (and as they then alledged upon very good grounds) divers feares and jealouſies upon their Kings departure from that his great Councell; and refuſing to hearken to their wholſome advice, while hee lent an indulgent eare to the Malignant Councells of divers deſperate Delinquents, whom his Majeſty pro<g ref="char:EOLhyphen"/>tected from the hand of Juſtice, to the apparent hazard of the eſtabliſh<g ref="char:EOLhyphen"/>ed Religion, the abſolute overthrow of the ancient and fundamentall Lawes of the Land; the irrecoverable breach of the priviledge of Par<g ref="char:EOLhyphen"/>liament, and the finall ruine of all his good Subjects: For the defence and preſervation whereof, and for no other ends, as they then moſt falſly aſſerted, they were neceſſitated to take up Armes to defend them<g ref="char:EOLhyphen"/>ſelves from the fury of that mighty Hoſt, which his Majeſty had raiſed for the accompliſhment of thoſe (as they ſcandalouſly termed them) his deſtructive Deſignes; and they ſolemnly proteſted that they inten<g ref="char:EOLhyphen"/>ded nothing prejudiciall to his Majeſty or his Royall Iſſue, or the abate<g ref="char:EOLhyphen"/>ment of any of his juſt Prerogatives: But in teſtimony of their Loy<g ref="char:EOLhyphen"/>alty and tender affection to him and his Iſſue, they publiſhed many faire and glorious Declarations, which they confirmed by divers Oaths, Covenants and Sacraments, that they did no wayes intend in the leaſt to eclipſe the ſplendor of his Majeſties Government, but were faithfully reſolved to make him the moſt great and glorious Prince in Chriſten<g ref="char:EOLhyphen"/>dome; by which faire and plauſible deluſions they drew from the cre<g ref="char:EOLhyphen"/>dulous People vaſt and infinite ſummes of Money; begat a good un<g ref="char:EOLhyphen"/>derſtanding in the opinion of Forraigne Princes, and inſinuated too farre into the charity of Our ſacred judgement: Thus by faire and ſpe<g ref="char:EOLhyphen"/>cious pretences they deluded the whole World, while, by policie and treachery more then valour, they had ſubdued the Royall Army, over<g ref="char:EOLhyphen"/>come the whole Kingdome, and gotten the poſſeſſion of his Majeſties Perſon; whom, inſtead of making a glorious King, they reduced to the condition of a miſerable captive, hurrying him about from one pri<g ref="char:EOLhyphen"/>ſon to another, not vouchſafing to hearken to any conditions of Peace, but ſuch as neither ſuited with the modeſty of Subjects to ask, nor the Majeſty of a King to grant: And although the effects of Rebellion accompanied with proſperity will prove ſtrange and wonderfull, even in the ſenſe of common apprehenſions; yet beyond the imagination
+<pb n="3" facs="tcp:117828:3"/>
+of man or expectation of Devills, that the ſoules of mortall men inſtru<g ref="char:EOLhyphen"/>cted in the principles of Chriſtianity ſhould proceede to ſuch a grada<g ref="char:EOLhyphen"/>tion of wickedneſſe as thoſe moſt deperditely wicked miſcreants have lately done, who have found out a new method of Treaſon, ſo miracu<g ref="char:EOLhyphen"/>louſly proditorious, that the whole counſell of Devills could give them no direction in, nor the Records of Hell afford a pattern; For, even in the time of a Treaty, when they had plighted their faith and the whole Kingdomes for his ſecurity; after hee had enlarged his Royall benig<g ref="char:EOLhyphen"/>nity to ſuch an extent of gracious Conceſſions as the modeſty of for<g ref="char:EOLhyphen"/>mer Rebells did never preſume to crave, nor themſelves could in reaſon expect; For, hee had not only admitted them to a copartnerſhip, but for a certaine time ſurrendred his whole Rule and Royall Autho<g ref="char:EOLhyphen"/>rity into their power; yet thoſe ſanguinolent <hi>Caitiffes</hi> whoſe Lupine-fu<g ref="char:EOLhyphen"/>ry could bee ſatisfied with nothing but their Soveraignes blood, raviſh'd his ſacred Perſon from his Court by an unruly crue of their armed Ja<g ref="char:EOLhyphen"/>nizaries, the off-fall and ſurfeit of that diſtempered Kingdome, in which riotous croud they brought him to a Barre in an unknowne Court which themſelves had erected, where themſelves, his Vaſſalls, became his Judges, who loading him ſufficiently with ſcorne and contempt, with faces worſe then <hi>Luciferian,</hi> diſmiſſed him with a gaſtly Sentence, which was executed not in a corner, but in the light of the Sunne, that all the World might take notice of it: For, on a Scaffold which, in aggra<g ref="char:EOLunhyphen"/>vation of his ſorrow they had cauſed to bee erected at the entrance into his Royall Court, at their command by the common Executioner that head was ſtruck off, which the abſolute Monarch of Heaven and Earth had crowned with a diadem of Imperiall Majeſty; an act of that horri<g ref="char:EOLhyphen"/>ble and prodigious nature, that it' cannot bee effigiated and ſhap'd forth to any patterne, it being a prodition of ſuch vaſt dimenſions, monſtrous latitude and prodigious nature, that it wants an apt name; for never any Legiſt either ancient or modern that ever made or writ of any Lawes hath left any name to poſterity which might bee adaequate ſufficient to expreſſe it.</p>
+            <p>The judgement of the Law in all Nations affirmes it Treaſon, not to bee expiated ſave by death, but to imagine or contr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve the death of a King, though a Uſurper or Tyrant; but this viperous brood whoſe breath is ſlaughter and deſtruction, have not only imagined or con<g ref="char:EOLhyphen"/>trived, but really acted the Murther of a lawfull King as unpattern'd in his vertues, as themſelves are in their vices, whoſe univerſall endow<g ref="char:EOLhyphen"/>ments of grace and nature, as well as his deputation, juſtly rendred him
+<pb n="4" facs="tcp:117828:4"/>
+a terreſtriall deity; for, hee was the perfect Modell of all contracted vertues, the bleſſing of his age, the pleaſure of mankind, the exaltation of nature, the Diamond in the Ring of the Monarchs of the Earth, the Miracle of the Chriſtian, and the mark and ſcope of the heathen World; wherefore to have aſſaſſinated him by the hand of a <hi>Raviliack,</hi> had beene a ſupergra<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uate ſinne; but to execute him publiquely, as a common Malefactor, was the marrow and ſpirits of the miſtery of Iniquity, ſo exorbitant, outragious and portentuous a Treaſon, that the prodigies of loſt humanity could not have acted it worſe; the blackeſt that ever the Sunne looked upon, the moſt curſed and infamous that ever was ac<g ref="char:EOLhyphen"/>compted in any Kalender of time; for, in ſo many thouſand yeares, from the fall of the Reprobate Angells, it never came into the head of any Devill, to ſuggeſt, to the heart of any man, before this time, ſo ne<g ref="char:EOLhyphen"/>farious, patricidous, and flegitonticall a wickedneſſe as this was.</p>
+            <p>And having ſent the father into the other World, through a Red-Sea of his owne precious blood, that they might manifeſt themſelves to bee the very off-ſpring of the Devill, the falſeſt <hi>Sinons</hi> and Impoſtors that ever ſtudied or put in practiſe the Art of deluſion, with whom no bond of Alliance, Allegiance, Oath, or Sacrament can ſtand firme, if they liſt to diſſolve it: They have proſcribed his eldeſt ſonne, their preſent So<g ref="char:EOLhyphen"/>veraigne, with the Duke his brother, and by a pretended Law, which to that purpoſe they have enacted, have made him, or any of the Roy<g ref="char:EOLhyphen"/>all Family, for ever uncapable of exerciſing the Kingly Government in any of thoſe Kingdomes; And by the ſame Act, have made it abſo<g ref="char:EOLhyphen"/>lutely Lawfull, with an aſſurance of a reward, for any one that ſhall Murther the yong King, and the Duke his brother, as Traytors, Spies, and Enemies to that Common-Wealth; And having ſwallowed a plen<g ref="char:EOLhyphen"/>tifull hope of an eternall fruition of their uſurped Dominion, they have broken the Diadem of State, ſeized upon the Regalia to their owne benefit, put to ſale the ornament and furniture of the Royall Houſhold, devided the Crown Revenues among themſelves and their adherents, overthrown the fundamentall Government of thoſe Kingdomes, from a well-compoſed Monarchy, to a confuſed-Anarchy; and reduced the Subjects thereof from a glorious condition of perfect freedome, to a farre worſe then Aegyptiacall bondage: Nor will the free poſſeſſion of one Kingdome ſatiate their ambitious appetites; but that they may ſtretch forth their Tyrannie into Forraigne parts, they have landed an Hoſt of ravenous Wolves, or rather incarnate Devills, in <hi>Ireland,</hi> who have out-gone the moſt barbarous Heathens, in bloody Maſſacres, not
+<pb n="5" facs="tcp:117828:4"/>
+ſparing whole Citties and Townes; but, without reſpect of Age or Sex, whereſoever they come, give free ſcope to the mercileſſe fury of their uncurbed Swords; Nor are thoſe a <hi>Abaddons</hi> and <hi>Apollions,</hi> theſe deſtroyers of nature and mankind, ſenſible of ſo ſmall a tincture of grace as to bluſh at, or palliate their unprecedented outrages; but with the faces of <hi>Sodom</hi> and <hi>Gomorah,</hi> do publiſh and patronage their unmatchable Villanies, and ſeek to perſwade the whole World of the Juſtice and Lega<g ref="char:EOLhyphen"/>llity of their unparralelled, regicide, and heterogeneous Government.</p>
+            <p>Now whereas it is the Office of Princes to execute Juſtice and Judge<g ref="char:EOLhyphen"/>ment, and to puniſh Vice and ſubdue Rebellion; Wee have thought it our Duty both to God and Man, to vindicate the cauſe of the late Mur<g ref="char:EOLhyphen"/>thered King of <hi>Great Brittaine,</hi> and reſtore his exiled ſon to the poſſeſſi<g ref="char:EOLhyphen"/>on of his Thrones, in Triumph and Majeſty: And for as much as all Chriſtian Princes are equally concerned in this Cauſe with Us; Wee have thought good to invite them to a generall Diet; Which wee deſire may bee convoked at <hi>Antwerp</hi> in the Dukedome of <hi>Brabant;</hi> where, upon the tenth of <hi>Aprill,</hi> in the yeare of Grace 1650. Plenepotentiaries may meet from all Emperours, Kings, and Princes that profeſſe Chri<g ref="char:EOLhyphen"/>ſtianity; where a generall and holy League being coucluded, and all ancient and private Quarrells lay'd aſide, Wee may all agree to fight under one Banner; that there a ſet Modell may bee concluded on and drawn up, wherein every Prince ſhall beare a proportionable ſhare, in rayſing and maintaining a great numerous Army, in which the whole Forces of Chriſtendom ſhall bee united in proſecution of this ſecond holy Warre, wherewith wee will Invade that Kingdome both by Sea and Land; faithfully reſolving never to deſert this juſt and honoura<g ref="char:EOLhyphen"/>ble Ingagement, till (by the bleſſing of God) Wee have ſubdued that People to the obedience of their Soveraigne, and reſtored that injured King to the quiet poſſeſſion of his undoubted Rights: And for as much as the inexorable malice of thoſe unmatchable Rebells, extends to the generall Ruine of Father, Sonne, and whole Famelie; ſo the extent of our Juſtice ſhall range to the utter extirpation and irradication of them, their wives, children and allies; and an abſolute deletion of their names and memories: But if Chronicles ſhall entail any of their prodigious Acts to enſuing Ages, their dreadfull deſtruction ſhall bee therewith Recorded; that Poſterity may bee as well afrighted and amazed at the puniſhment, as progreſſion of their Rebellion: And for the better en<g ref="char:EOLhyphen"/>couragement of this honourable enterprize, being the common Cauſe of abuſed Soveraignty; Wee are pleaſed of our owne Royall benignity,
+<pb n="6" facs="tcp:117828:5" rendition="simple:additions"/>
+beſides our proportionable contribution to the generall charge, to raiſe and maintaine ten thouſand well experienced Souldiers, both Horſe and Foote, and furniſh them with a Train of Artillery, and all neceſſary habiliments of Warre, out of our proper Treaſury.</p>
+            <p>And for as much as examples are the moſt compendious teachers, and perfect illuſtrations; Wee have thought it convenient to ſignify to the World, how farre Wee have expanded Our juſt indignation againſt that Rebellious People: For, by Our ſpeciall Decree, which Wee have cauſed to bee Proclaimed throughout all Our Dominions; Wee have commanded all <hi>Engliſhmen</hi> by a certain day to depart our Empires, not<g ref="char:EOLhyphen"/>withſtanding all former grants, licenſes and Acts of naturalization; and after that day Wee have forbid all Trade and Commerce with that Na<g ref="char:EOLhyphen"/>tion, prohibiting any one of that Nation, upon any occaſion, how ur<g ref="char:EOLhyphen"/>gent ſoever, upon paine of High-Treaſon, to remaine in any part of Our Empire or other Dominions: And if any ſhall preſume, after that aforeſaid day notwithſtanding this Our Decree, to ſtay in any part of Our Dominions, that they bee forthwith executed as Spies and Tray<g ref="char:EOLhyphen"/>tors: Provided alwaies, that the Penalty of this Decree extend not to any who either are, or hereafter ſhall bee imployed in any of our Ter<g ref="char:EOLhyphen"/>ritories from the King of <hi>Great Brittaine:</hi> And Wee deſire that all Kings and Princes of Chriſtendom would herein follow Our Royall example; That as thoſe unmatchable Rebells have out-gone all other Nations in their ſinne; ſo they may in their ſufferings in becoming an off-ſcouring and abhomination to mankind. And Wee doe ſolemnly proteſt Our ſelfe to bee an eternall friend to the King of <hi>Great Brittain</hi> and his friends; and an irreconciliable foe to his enemies.</p>
+            <closer>
+               <dateline>Given at Our Court, at <hi>Moſco,</hi> 
+                  <date>the 20. of <hi>September</hi> 1649.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:117828:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
